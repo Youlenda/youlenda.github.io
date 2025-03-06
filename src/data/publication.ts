@@ -14,26 +14,51 @@ export interface Publication {
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
-    year: "2024",
-    conference: "NeurIPS",
-    title: "Scalable Causal Discovery in High-Dimensional Time Series",
-    authors: "Jane Smith, Sarah Johnson, Yue Zhang",
-    paperUrl: "https://arxiv.org/abs/2409.15476",
-    codeUrl: "https://github.com/jsmith/scalable-causal-discovery",
+    year: "2025",
+    conference: "TPAMI",
+    title: "Rate-Distortion Theory in Coding for Machines and its Application",
+    authors: "Alon Harell, Yalda Foroutan, Nilesh Ahuja, Parual Datta, Bhavya Kanzariya, V. Srinivasa Somayazulu, Omesh Tickoo, Anderson de Andrade, Ivan V. Bajic",
+    paperUrl: "https://arxiv.org/pdf/2305.17295",
+    // codeUrl: "https://github.com/jsmith/scalable-causal-discovery",
     //bibtex: "https://arxiv.org/abs/2409.15476.bib",
-    tldr: "Using causal discovery to find the causal structure of high-dimensional time series data.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    award: "🏆 Best Paper Award",
+    tldr: "Extending rate-distortion theory for machine-vision codecs.",
+    // imageUrl:
+      // "/images/rd.jpg",
+    // award: "🏆 Best Paper Award",
     // if you have an image in public/images, you can use it like this:
     // imageUrl: "/images/publication-image.jpg"
   },
   {
-    year: "2023",
-    conference: "ICML",
-    title: "Robust Causal Discovery Under Distribution Shift",
-    authors: "Jane Smith, Xue Chen, Sarah Johnson",
-    paperUrl: "https://arxiv.org/abs/2302.13095",
-    codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    year: "2024",
+    conference: "arXiv",
+    title: "Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting",
+    authors: "Yalda Foroutan, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi",
+    paperUrl: "https://theialab.github.io/nerf-3dgs/",
+    // codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    tldr: "Utilizing a NeRF to guide the optimization of a 3D Gaussian Splatting as an alternative to SfM initialization.",
   },
+  {
+    year: "2023",
+    conference: "ICIP",
+    title: "Base Layer Efficiency in Scalable Human-machine Coding",
+    authors: "Yalda Foroutan, Alon Harell, Anderson de Andrade, Ivan V Bajić",
+    paperUrl: "https://arxiv.org/pdf/2307.02430",
+    tldr: "Enhancing base-layer training to achieve significant rate savings across multiple computer vision tasks.",
+  },
+  // {
+  //   year: "2025",
+  //   conference: "TPAMI",
+  //   title: "Rate-Distortion Theory in Coding for Machines and its Application",
+  //   authors: "Alon Harell, Yalda Foroutan, Nilesh Ahuja, Parual Datta, Bhavya Kanzariya, V. Srinivasa Somayazulu, Omesh Tickoo, Anderson de Andrade, Ivan V. Bajic",
+  //   paperUrl: "https://arxiv.org/pdf/2305.17295",
+  //   tldr: "Extending rate-distortion theory for machine-vision codecs.",
+  // },
+  // {
+  //   year: "2025",
+  //   conference: "TPAMI",
+  //   title: "Rate-Distortion Theory in Coding for Machines and its Application",
+  //   authors: "Alon Harell, Yalda Foroutan, Nilesh Ahuja, Parual Datta, Bhavya Kanzariya, V. Srinivasa Somayazulu, Omesh Tickoo, Anderson de Andrade, Ivan V. Bajic",
+  //   paperUrl: "https://arxiv.org/pdf/2305.17295",
+  //   tldr: "Extending rate-distortion theory for machine-vision codecs.",
+  // },
 ];
