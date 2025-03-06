@@ -27,7 +27,7 @@ export const educationData: Education[] = [
     year: "2017—2020",
     institution: "University of Tehran",
     degree: "M.Sc. in Electrical Engineering",
-    thesis: "Computer Mouse Control via Hand Gesture Recognition",
+    thesis: "Contol of Computer Mouse via Hand Gesture Recognition",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
   },
