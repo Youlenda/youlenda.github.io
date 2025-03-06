@@ -19,21 +19,23 @@ export interface AboutMe {
 
 export const aboutMe: AboutMe = {
   name: "Yalda Foroutan",
-  title: "Ph.D. Candidate",
-  institution: "SFU University",
+  title: "Ph.D. Student",
+  institution: "Simon Fraser University (SFU)",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
-  email: "______@stanford.edu",
+    `I am a Ph.D. student at <a href='https://gruvi.cs.sfu.ca/'>GrUVi lab</a>, supervised by  <a href='https://theialab.ca/'>Andrea Tagliasacchi</a>. My research focuses on 3D reconstruction and novel view synthesis, especially Neural Radiance Fields (NeRF) and 3D Gaussian Splatting.
+    <br><br>
+    Beyond the lab, I enjoy Vancouver’s rare sunny days by exploring hiking trails. On rainy days, I solve jigsaw puzzles, play board games like Catan, and enjoy crime or historical movies.`,
+  email: "yalda.foroutan@gmail.com",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
-  githubUsername: "janesmith",
-  linkedinUsername: "janesmith",
-  twitterUsername: "janesmith",
-  blogUrl: "https://",
-  cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+    "/images/me.jpg",
+  googleScholarUrl: "https://scholar.google.ca/citations?user=mkzIURcAAAAJ&hl=en",
+  githubUsername: "youlenda",
+  linkedinUsername: "yaldaforoutan",
+  twitterUsername: "yaldaforoutan",
+  // blogUrl: "https://",
+  // cvUrl: "https://",
+  institutionUrl: "https://www.sfu.ca",
   // altName: "",
   // secretDescription: "I like dogs.",
 };
