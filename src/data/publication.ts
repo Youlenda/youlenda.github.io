@@ -31,11 +31,11 @@ export const publicationData: Publication[] = [
   {
     year: "2024",
     conference: "arXiv",
-    title: "Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting",
+    title: "Evaluating Alternatives to SfM Point Cloud Initialization for Gaussian Splatting",
     authors: "Yalda Foroutan, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi",
     paperUrl: "https://theialab.github.io/nerf-3dgs/",
     // codeUrl: "https://github.com/jsmith/robust-causal-discovery",
-    tldr: "Utilizing a NeRF to guide the optimization of a 3D Gaussian Splatting as an alternative to SfM initialization.",
+    tldr: "Utilizing a NeRF to guide the optimization of 3D Gaussian Splatting as an alternative to SfM initialization.",
   },
   {
     year: "2023",
@@ -59,7 +59,7 @@ export const publicationData: Publication[] = [
     title: "Conditional and Residual Methods in Scalable Coding for Humans and Machines",
     authors: "Anderson de Andrade, Alon Harell, Yalda Foroutan, Ivan V. Bajić",
     paperUrl: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222456",
-    tldr: "Presenting conditional and residual methods for scalable coding for both human and machine.",
+    tldr: "Presenting conditional and residual methods for scalable coding for both humans and machine.",
   },
   {
     year: "2020",
@@ -67,6 +67,6 @@ export const publicationData: Publication[] = [
     title: "Control of Computer Pointer Using Hand Gesture Recognition in Motion Picture",
     authors: "Yalda Foroutan, Ahmad Kalhor, Saeid Mohammadi Nejati, Samad Sheikhaei",
     paperUrl: "https://arxiv.org/pdf/2012.13188",
-    tldr: "Controlling computer pointer using hand detection and classification.",
+    tldr: "Controlling computer pointer using hand detection and gesture classification.",
   },
 ];
