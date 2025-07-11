@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Simon Fraser University (SFU)",
   // Note that links work in the description
   description:
-    `I am a Ph.D. student at the <a href='https://gruvi.cs.sfu.ca/'>GrUVi lab</a>, supervised by Prof. <a href='https://theialab.ca/'>Andrea Tagliasacchi</a>. My research lies at the intersection of computer vision and computer graphics, with a focus on 3D reconstruction and novel view synthesis. I am particularly interested in Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS), aiming to generate photorealistic scene representations from sparse inputs.
+    `I am a Ph.D. student at the <a href='https://gruvi.cs.sfu.ca/'>GrUVi lab</a>, supervised by Prof. <a href='https://theialab.ca/'>Andrea Tagliasacchi</a>. My research lies at the intersection of computer vision and computer graphics, with a focus on 3D reconstruction and novel view synthesis. I am particularly interested in Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS).
     <br><br>
     Outside the lab, I enjoy Vancouver’s rare sunny days by exploring hiking trails. On rainy days, I unwind with jigsaw puzzles, board games, and crime movies.`,
   email: "yalda.foroutan@gmail.com",
