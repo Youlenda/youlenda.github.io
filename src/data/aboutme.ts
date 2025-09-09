@@ -34,7 +34,7 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "yaldaforoutan",
   twitterUsername: "yaldaforoutan",
   // blogUrl: "https://",
-  // cvUrl: "https://",
+  cvUrl: "https://github.com/Youlenda/youlenda/blob/main/Yalda_CV.pdf",
   institutionUrl: "https://www.sfu.ca",
   // altName: "",
   // secretDescription: "I like dogs.",
