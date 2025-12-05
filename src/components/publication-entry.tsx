@@ -58,7 +58,7 @@ export function PublicationEntry({
                 size={12}
                 className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"
               />
-              <span className="tracking-wider uppercase">Code</span>
+              <span className="tracking-wider uppercase">Homepage</span>
             </a>
           )}
           {publication.bibtex && (
