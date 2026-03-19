@@ -14,7 +14,7 @@ export interface Publication {
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
-    year: "2025",
+    year: "2026",
     conference: "arXiv",
     title: "FullCircle: Effortless 3D Reconstruction from Casual 360° Captures",
     authors: "Yalda Foroutan*, Ipek Oztas*,  Daniel Rebain, Aysegul Dundar, Kwang Moo Yi, Lily Goli, Andrea Tagliasacchi",
