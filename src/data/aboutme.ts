@@ -6,6 +6,7 @@ export interface AboutMe {
   email: string;
   imageUrl?: string;
   blogUrl?: string;
+  hikesUrl?: string;
   cvUrl?: string;
   googleScholarUrl?: string;
   twitterUsername?: string;
