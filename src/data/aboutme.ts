@@ -25,7 +25,7 @@ export const aboutMe: AboutMe = {
   description:
     `I am a Ph.D. student at the <a href='https://gruvi.cs.sfu.ca/'>GrUVi lab</a>, supervised by Prof. <a href='https://theialab.ca/'>Andrea Tagliasacchi</a>. My research lies at the intersection of computer vision and computer graphics, with a focus on 3D reconstruction and novel view synthesis. I am particularly interested in Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS).
     <br><br>
-    Outside the lab, I enjoy Vancouver’s rare sunny days by exploring hiking trails. On rainy days, I unwind with jigsaw puzzles, board games, and crime movies.`,
+    Outside the lab, I enjoy Vancouver’s rare sunny days by exploring <a href='https://youlenda.github.io/hikes/'>hiking trails</a>. On rainy days, I unwind with jigsaw puzzles, board games, and crime movies.`,
   email: "yalda.foroutan@gmail.com",
   imageUrl:
     "/images/me.jpg",
